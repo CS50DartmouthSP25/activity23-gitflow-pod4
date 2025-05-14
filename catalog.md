@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: Seancode4
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: tommy-robinson
 
 [History](history.md) - Department chair: <Bora-Bozdogan>
 
