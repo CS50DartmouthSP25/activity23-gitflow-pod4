@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: tommy-robinson
 
-[History](history.md) - Department chair: <Bora-Bozdogan>
+[History](history.md) - Department chair: Bora-Bozdogan
 
 [Mathematics](math.md) - Department chair: <github username>
 
